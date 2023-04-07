@@ -1,7 +1,28 @@
 {
   "Calendar": "Kalendar",
-  "Show Moon Phases": "Prikaži mjesečeve mijene",
+  "Show Moon Phases": "Prikaži Mjesečeve mijene",
   "warning": {
     "vacations-cant-be-fully-calculated": "Neradni dani ne mogu biti u potpunosti izračunati! (Oprez)"
-  }
+  },
+  "Nova Godina": "Nova Godina",
+  "Sveta tri kralja": "Sveta tri kralja",
+  "Uskrs": "Uskrs",
+  "Uskršnji ponedjeljak": "Uskršnji ponedjeljak",
+  "Prvi Maj": "Prvi Maj",
+  "Dan državnosti": "Dan državnosti",
+  "Tijelovo": "Tijelovo",
+  "Dan antifašističke borbe": "Dan antifašističke borbe",
+  "Dan domovinske zahvalnosti": "Dan domovinske zahvalnosti",
+  "Velika Gospa": "Velika Gospa",
+  "Dan svih svetih": "Dan svih svetih",
+  "Dan sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje": "Dan sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje",
+  "Božić": "Božić",
+  "Sveti Stjepan": "Sveti Stjepan",
+  "po": "po",
+  "ut": "ut",
+  "sr": "sr",
+  "če": "če",
+  "pe": "pe",
+  "su": "su",
+  "ne": "ne"
 }

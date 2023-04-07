@@ -1,7 +1,28 @@
 {
   "Calendar": "Calendar",
-  "Show Moon Phases": "Show Moon Phases",
+  "Show Moon Phases": "Show Moon phases",
   "warning": {
     "vacations-cant-be-fully-calculated": "Vacations cant be fully calculated! (Warning)"
-  }
+  },
+  "Nova Godina": "New Year's Day",
+  "Sveta tri kralja": "Epiphany",
+  "Uskrs": "Easter",
+  "Uskršnji ponedjeljak": "Easter Monday",
+  "Prvi Maj": "Labour Day",
+  "Dan državnosti": "National Day",
+  "Tijelovo": "Corpus Christi",
+  "Dan antifašističke borbe": "Anti-Fascist Struggle Day",
+  "Dan domovinske zahvalnosti": "Victory and Homeland Thanksgiving Day",
+  "Velika Gospa": "Assumption of Mary",
+  "Dan svih svetih": "All Saints' Day",
+  "Dan sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje": "The Day of Remembrance of the Victims of the Homeland War and the Day of Remembrance of the Victims of Vukovar and Škabrnja",
+  "Božić": "Christmas",
+  "Sveti Stjepan": "Saint Stephen's Day",
+  "po": "mo",
+  "ut": "tu",
+  "sr": "we",
+  "če": "th",
+  "pe": "fr",
+  "su": "sa",
+  "ne": "su"
 }
