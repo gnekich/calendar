@@ -1,5 +1,6 @@
 {
   "Calendar": "Calendar",
+  "description": "Calendar with marked public holidays and public holidays in the Republic of Croatia. Croatian calendar for {{year}} year.",
   "Show Moon Phases": "Show Moon phases",
   "warning": {
     "vacations-cant-be-fully-calculated": "Vacations cant be fully calculated! (Warning)"
