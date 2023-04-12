@@ -1,7 +1,10 @@
 {
   "Calendar": "Kalendar",
-  "description": "Kalendar sa označenim državnim praznicima i blagdanima u Republici Hrvatskoj. Hrvatski kalendar za {{year}}. godinu.",
+  "Description": "Kalendar sa označenim državnim praznicima i blagdanima u Republici Hrvatskoj. Hrvatski kalendar za {{year}}. godinu.",
   "Show Moon Phases": "Prikaži Mjesečeve mijene",
+  "Calendar Details": "Detalji kalendara",
+  "Calendar Options": "Opcije kalendara",
+  "Site Options": "Opcije stranice",
   "warning": {
     "vacations-cant-be-fully-calculated": "Neradni dani ne mogu biti u potpunosti izračunati! (Oprez)"
   },
